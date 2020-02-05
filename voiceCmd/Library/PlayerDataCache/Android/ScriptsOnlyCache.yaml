@@ -3,7 +3,6 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - ReceiveResult
     - Test
-    - avatarControl
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.Graphs.dll:
@@ -56,25 +55,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11136}
+      Script: {instanceID: 11138}
     - Class: 114
-      Script: {instanceID: 11294}
+      Script: {instanceID: 11296}
     - Class: 114
-      Script: {instanceID: 11334}
+      Script: {instanceID: 11336}
     - Class: 114
-      Script: {instanceID: 11712}
+      Script: {instanceID: 11714}
     - Class: 114
-      Script: {instanceID: 11984}
+      Script: {instanceID: 11986}
     - Class: 114
-      Script: {instanceID: 12076}
+      Script: {instanceID: 12078}
     - Class: 114
-      Script: {instanceID: 12544}
+      Script: {instanceID: 12548}
     - Class: 114
-      Script: {instanceID: 12612}
+      Script: {instanceID: 12616}
     - Class: 114
-      Script: {instanceID: 12888}
-    - Class: 114
-      Script: {instanceID: 13236}
+      Script: {instanceID: 12892}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -306,7 +303,7 @@ ScriptsOnlyBuild:
     className: TMP_SpriteAnimator
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: 72b48a7df60478e514b28bf282a54524
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ReceiveResult
@@ -526,13 +523,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: a53b48ba5f9d565887a0642d19353871
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: avatarControl
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/ASUS/Desktop/DEMO2.apk
+  playerPath: C:/Users/ASUS/Desktop/DEMO3.apk
