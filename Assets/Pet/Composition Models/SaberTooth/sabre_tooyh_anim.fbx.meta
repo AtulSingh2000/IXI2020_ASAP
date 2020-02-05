@@ -1,0 +1,829 @@
+fileFormatVersion: 2
+guid: c5ead88e9b6bcc14ba38dc22d8a3f096
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back
+    100002: Bone01
+    100004: Bone02
+    100006: Bone03
+    100008: Bone04
+    100010: Bone05
+    100012: Bone06
+    100014: Bone07
+    100016: Bone08
+    100018: Bone09
+    100020: Bone10
+    100022: Bone11
+    100024: Bone12
+    100026: Bone13
+    100028: Bone14
+    100030: Bone15
+    100032: Bone16
+    100034: Bone17
+    100036: Bone18
+    100038: Bone19
+    100040: Bone20
+    100042: Bone21
+    100044: Bone22
+    100046: Bone23
+    100048: Bone24
+    100050: Bone25
+    100052: Bone26
+    100054: Bone27
+    100056: Bone28
+    100058: Bone29
+    100060: Bone30
+    100062: Bone31
+    100064: Bone32
+    100066: Bone33
+    100068: Bone34
+    100070: Bone35
+    100072: Bone50
+    100074: Bone51
+    100076: Bone52
+    100078: Bone53
+    100080: Bone54
+    100082: Bone55
+    100084: Bone56
+    100086: Bone57
+    100088: Bone58
+    100090: Bone59
+    100092: Bone60
+    100094: Bone61
+    100096: Bone62
+    100098: Bone63
+    100100: Bone65
+    100102: Bone66
+    100104: Bone67
+    100106: Bone68
+    100108: Bone69
+    100110: Bone70
+    100112: Bone71
+    100114: Bone72
+    100116: Bone73
+    100118: Bone74
+    100120: Bone75
+    100122: Bone76
+    100124: Bone77
+    100126: Bone78
+    100128: Bone79
+    100130: Bone80
+    100132: Bone81
+    100134: Bone82
+    100136: Bone83
+    100138: Bone84
+    100140: Bone85
+    100142: Bone86
+    100144: Bone87
+    100146: Bone88
+    100148: Box01
+    100150: chin_bottom
+    100152: chin_top
+    100154: Diego
+    100156: Diego Morph
+    100158: Dummy01
+    100160: Dummy100
+    100162: Dummy101
+    100164: Dummy102
+    100166: Dummy103
+    100168: Dummy104
+    100170: Dummy105
+    100172: Dummy106
+    100174: Dummy107
+    100176: Dummy108
+    100178: Dummy109
+    100180: Dummy110
+    100182: Dummy111
+    100184: Dummy112
+    100186: Dummy113
+    100188: Dummy114
+    100190: Dummy115
+    100192: Dummy116
+    100194: Dummy117
+    100196: Dummy118
+    100198: Dummy119
+    100200: Dummy120
+    100202: Dummy121
+    100204: Dummy122
+    100206: Dummy123
+    100208: Dummy124
+    100210: Dummy125
+    100212: Dummy126
+    100214: Dummy127
+    100216: Dummy128
+    100218: Dummy129
+    100220: Dummy130
+    100222: Dummy131
+    100224: Dummy132
+    100226: Dummy133
+    100228: Dummy134
+    100230: Dummy135
+    100232: Dummy136
+    100234: Dummy137
+    100236: Dummy138
+    100238: Dummy139
+    100240: Dummy140
+    100242: Dummy141
+    100244: Dummy142
+    100246: Dummy143
+    100248: Dummy144
+    100250: Dummy145
+    100252: Dummy146
+    100254: Dummy147
+    100256: Dummy148
+    100258: Dummy149
+    100260: Dummy150
+    100262: Dummy151
+    100264: Dummy152
+    100266: Dummy153
+    100268: Dummy154
+    100270: Dummy155
+    100272: Dummy156
+    100274: Dummy157
+    100276: Dummy158
+    100278: Dummy159
+    100280: Dummy160
+    100282: Dummy161
+    100284: Dummy162
+    100286: Dummy163
+    100288: Dummy164
+    100290: Dummy165
+    100292: Dummy166
+    100294: Dummy167
+    100296: Dummy168
+    100298: Dummy169
+    100300: Dummy170
+    100302: Dummy33
+    100304: Dummy34
+    100306: Dummy35
+    100308: Dummy36
+    100310: Dummy37
+    100312: Dummy38
+    100314: Dummy39
+    100316: Dummy40
+    100318: Dummy41
+    100320: Dummy42
+    100322: Dummy73
+    100324: Dummy74
+    100326: Dummy75
+    100328: Dummy76
+    100330: Dummy77
+    100332: Dummy78
+    100334: Dummy79
+    100336: Dummy80
+    100338: Dummy81
+    100340: Dummy82
+    100342: Dummy83
+    100344: Dummy84
+    100346: Dummy85
+    100348: Dummy86
+    100350: Dummy87
+    100352: Dummy88
+    100354: Dummy89
+    100356: Dummy90
+    100358: Dummy91
+    100360: Dummy92
+    100362: Dummy93
+    100364: Dummy94
+    100366: Dummy95
+    100368: Dummy96
+    100370: Dummy97
+    100372: Dummy98
+    100374: Dummy99
+    100376: eye_l
+    100378: Eye_L_mrph
+    100380: eye_r
+    100382: Eye_R_mrph
+    100384: head_main
+    100386: Headmy
+    100388: IK Chain01
+    100390: IK Chain02
+    100392: IK Chain03
+    100394: IK Chain04
+    100396: IK Chain05
+    100398: IK Chain25
+    100400: IK Chain26
+    100402: IK Chain27
+    100404: IK Chain28
+    100406: IK Chain29
+    100408: IK Chain30
+    100410: IK Chain31
+    100412: IK Chain32
+    100414: IK Chain33
+    100416: IK Chain34
+    100418: IK Chain35
+    100420: IK Chain36
+    100422: IK Chain37
+    100424: IK Chain38
+    100426: IK Chain39
+    100428: IK Chain40
+    100430: IK Chain41
+    100432: IK Chain42
+    100434: IK Chain43
+    100436: IK Chain44
+    100438: IK Chain45
+    100440: IK Chain46
+    100442: IK Chain47
+    100444: IK Chain48
+    100446: IK Chain49
+    100448: IK Chain50
+    100450: IK Chain51
+    100452: IK Chain52
+    100454: IK Chain53
+    100456: IK Chain54
+    100458: IK Chain55
+    100460: IK Chain56
+    100462: IK Chain57
+    100464: IK Chain58
+    100466: IK Chain59
+    100468: IK Chain60
+    100470: IK Chain61
+    100472: IK Chain62
+    100474: IK Chain63
+    100476: IK Chain64
+    100478: IK Chain65
+    100480: IK Chain66
+    100482: IK Chain67
+    100484: IK Chain68
+    100486: IK Chain69
+    100488: IK Chain70
+    100490: IK Chain71
+    100492: IK Chain72
+    100494: IK Chain73
+    100496: IK Chain74
+    100498: ikHandle1
+    100500: ikHandle2
+    100502: ikHandle3
+    100504: ikHandle4
+    100506: L Calfmy
+    100508: L Calfmy 1
+    100510: L Claviclemy
+    100512: L Footmy
+    100514: L Footmy 1
+    100516: L Forearmmy
+    100518: L Handmy
+    100520: L Thighmy
+    100522: L Thighmy1
+    100524: L UpperArmmy
+    100526: lBone70
+    100528: lBone71
+    100530: lBone72
+    100532: lBone73
+    100534: Neck1my
+    100536: Neck2my
+    100538: Neckmy
+    100540: PantherLLegDigit01n
+    100542: PantherLLegDigit01y
+    100544: PantherLLegDigit01y 1
+    100546: PantherLLegDigit02y
+    100548: PantherLLegDigit02y 1
+    100550: PantherLLegDigit11n
+    100552: PantherLLegDigit11y
+    100554: PantherLLegDigit11y 1
+    100556: PantherLLegDigit12n
+    100558: PantherLLegDigit12y
+    100560: PantherLLegDigit12y 1
+    100562: PantherLLegDigit21n
+    100564: PantherLLegDigit21y
+    100566: PantherLLegDigit21y 1
+    100568: PantherLLegDigit22n
+    100570: PantherLLegDigit22y
+    100572: PantherLLegDigit22y 1
+    100574: PantherLLegDigit31n
+    100576: PantherLLegDigit32n
+    100578: PantherRibcagemy
+    100580: PantherRLegDigit01n
+    100582: PantherRLegDigit11n
+    100584: PantherRLegDigit12n
+    100586: PantherRLegDigit21n
+    100588: PantherRLegDigit22n
+    100590: PantherRLegDigit31n
+    100592: PantherRLegDigit32n
+    100594: PantherTail1
+    100596: PantherTail2
+    100598: PantherTail3
+    100600: PantherTail4
+    100602: pasted__pCylinder16
+    100604: Pelvismy
+    100606: Point01
+    100608: Point02
+    100610: Point03
+    100612: Point04
+    100614: Point05
+    100616: Point06
+    100618: Point07
+    100620: Point08
+    100622: Point09
+    100624: Point10
+    100626: polySurface2
+    100628: polySurface8
+    100630: pupil
+    100632: pupil1
+    100634: R Claviclemy
+    100636: R Forearmmy
+    100638: R Handmy
+    100640: R UpperArmmy
+    100642: //RootNode
+    100644: Spine1my
+    100646: Spine2my
+    100648: Spine3my
+    100650: Spine4my
+    100652: Spinemy
+    100654: SplineIKNode01
+    100656: Teeth_Bttm_Mrph
+    100658: Teeth_Top_Mrph
+    400000: back
+    400002: Bone01
+    400004: Bone02
+    400006: Bone03
+    400008: Bone04
+    400010: Bone05
+    400012: Bone06
+    400014: Bone07
+    400016: Bone08
+    400018: Bone09
+    400020: Bone10
+    400022: Bone11
+    400024: Bone12
+    400026: Bone13
+    400028: Bone14
+    400030: Bone15
+    400032: Bone16
+    400034: Bone17
+    400036: Bone18
+    400038: Bone19
+    400040: Bone20
+    400042: Bone21
+    400044: Bone22
+    400046: Bone23
+    400048: Bone24
+    400050: Bone25
+    400052: Bone26
+    400054: Bone27
+    400056: Bone28
+    400058: Bone29
+    400060: Bone30
+    400062: Bone31
+    400064: Bone32
+    400066: Bone33
+    400068: Bone34
+    400070: Bone35
+    400072: Bone50
+    400074: Bone51
+    400076: Bone52
+    400078: Bone53
+    400080: Bone54
+    400082: Bone55
+    400084: Bone56
+    400086: Bone57
+    400088: Bone58
+    400090: Bone59
+    400092: Bone60
+    400094: Bone61
+    400096: Bone62
+    400098: Bone63
+    400100: Bone65
+    400102: Bone66
+    400104: Bone67
+    400106: Bone68
+    400108: Bone69
+    400110: Bone70
+    400112: Bone71
+    400114: Bone72
+    400116: Bone73
+    400118: Bone74
+    400120: Bone75
+    400122: Bone76
+    400124: Bone77
+    400126: Bone78
+    400128: Bone79
+    400130: Bone80
+    400132: Bone81
+    400134: Bone82
+    400136: Bone83
+    400138: Bone84
+    400140: Bone85
+    400142: Bone86
+    400144: Bone87
+    400146: Bone88
+    400148: Box01
+    400150: chin_bottom
+    400152: chin_top
+    400154: Diego
+    400156: Diego Morph
+    400158: Dummy01
+    400160: Dummy100
+    400162: Dummy101
+    400164: Dummy102
+    400166: Dummy103
+    400168: Dummy104
+    400170: Dummy105
+    400172: Dummy106
+    400174: Dummy107
+    400176: Dummy108
+    400178: Dummy109
+    400180: Dummy110
+    400182: Dummy111
+    400184: Dummy112
+    400186: Dummy113
+    400188: Dummy114
+    400190: Dummy115
+    400192: Dummy116
+    400194: Dummy117
+    400196: Dummy118
+    400198: Dummy119
+    400200: Dummy120
+    400202: Dummy121
+    400204: Dummy122
+    400206: Dummy123
+    400208: Dummy124
+    400210: Dummy125
+    400212: Dummy126
+    400214: Dummy127
+    400216: Dummy128
+    400218: Dummy129
+    400220: Dummy130
+    400222: Dummy131
+    400224: Dummy132
+    400226: Dummy133
+    400228: Dummy134
+    400230: Dummy135
+    400232: Dummy136
+    400234: Dummy137
+    400236: Dummy138
+    400238: Dummy139
+    400240: Dummy140
+    400242: Dummy141
+    400244: Dummy142
+    400246: Dummy143
+    400248: Dummy144
+    400250: Dummy145
+    400252: Dummy146
+    400254: Dummy147
+    400256: Dummy148
+    400258: Dummy149
+    400260: Dummy150
+    400262: Dummy151
+    400264: Dummy152
+    400266: Dummy153
+    400268: Dummy154
+    400270: Dummy155
+    400272: Dummy156
+    400274: Dummy157
+    400276: Dummy158
+    400278: Dummy159
+    400280: Dummy160
+    400282: Dummy161
+    400284: Dummy162
+    400286: Dummy163
+    400288: Dummy164
+    400290: Dummy165
+    400292: Dummy166
+    400294: Dummy167
+    400296: Dummy168
+    400298: Dummy169
+    400300: Dummy170
+    400302: Dummy33
+    400304: Dummy34
+    400306: Dummy35
+    400308: Dummy36
+    400310: Dummy37
+    400312: Dummy38
+    400314: Dummy39
+    400316: Dummy40
+    400318: Dummy41
+    400320: Dummy42
+    400322: Dummy73
+    400324: Dummy74
+    400326: Dummy75
+    400328: Dummy76
+    400330: Dummy77
+    400332: Dummy78
+    400334: Dummy79
+    400336: Dummy80
+    400338: Dummy81
+    400340: Dummy82
+    400342: Dummy83
+    400344: Dummy84
+    400346: Dummy85
+    400348: Dummy86
+    400350: Dummy87
+    400352: Dummy88
+    400354: Dummy89
+    400356: Dummy90
+    400358: Dummy91
+    400360: Dummy92
+    400362: Dummy93
+    400364: Dummy94
+    400366: Dummy95
+    400368: Dummy96
+    400370: Dummy97
+    400372: Dummy98
+    400374: Dummy99
+    400376: eye_l
+    400378: Eye_L_mrph
+    400380: eye_r
+    400382: Eye_R_mrph
+    400384: head_main
+    400386: Headmy
+    400388: IK Chain01
+    400390: IK Chain02
+    400392: IK Chain03
+    400394: IK Chain04
+    400396: IK Chain05
+    400398: IK Chain25
+    400400: IK Chain26
+    400402: IK Chain27
+    400404: IK Chain28
+    400406: IK Chain29
+    400408: IK Chain30
+    400410: IK Chain31
+    400412: IK Chain32
+    400414: IK Chain33
+    400416: IK Chain34
+    400418: IK Chain35
+    400420: IK Chain36
+    400422: IK Chain37
+    400424: IK Chain38
+    400426: IK Chain39
+    400428: IK Chain40
+    400430: IK Chain41
+    400432: IK Chain42
+    400434: IK Chain43
+    400436: IK Chain44
+    400438: IK Chain45
+    400440: IK Chain46
+    400442: IK Chain47
+    400444: IK Chain48
+    400446: IK Chain49
+    400448: IK Chain50
+    400450: IK Chain51
+    400452: IK Chain52
+    400454: IK Chain53
+    400456: IK Chain54
+    400458: IK Chain55
+    400460: IK Chain56
+    400462: IK Chain57
+    400464: IK Chain58
+    400466: IK Chain59
+    400468: IK Chain60
+    400470: IK Chain61
+    400472: IK Chain62
+    400474: IK Chain63
+    400476: IK Chain64
+    400478: IK Chain65
+    400480: IK Chain66
+    400482: IK Chain67
+    400484: IK Chain68
+    400486: IK Chain69
+    400488: IK Chain70
+    400490: IK Chain71
+    400492: IK Chain72
+    400494: IK Chain73
+    400496: IK Chain74
+    400498: ikHandle1
+    400500: ikHandle2
+    400502: ikHandle3
+    400504: ikHandle4
+    400506: L Calfmy
+    400508: L Calfmy 1
+    400510: L Claviclemy
+    400512: L Footmy
+    400514: L Footmy 1
+    400516: L Forearmmy
+    400518: L Handmy
+    400520: L Thighmy
+    400522: L Thighmy1
+    400524: L UpperArmmy
+    400526: lBone70
+    400528: lBone71
+    400530: lBone72
+    400532: lBone73
+    400534: Neck1my
+    400536: Neck2my
+    400538: Neckmy
+    400540: PantherLLegDigit01n
+    400542: PantherLLegDigit01y
+    400544: PantherLLegDigit01y 1
+    400546: PantherLLegDigit02y
+    400548: PantherLLegDigit02y 1
+    400550: PantherLLegDigit11n
+    400552: PantherLLegDigit11y
+    400554: PantherLLegDigit11y 1
+    400556: PantherLLegDigit12n
+    400558: PantherLLegDigit12y
+    400560: PantherLLegDigit12y 1
+    400562: PantherLLegDigit21n
+    400564: PantherLLegDigit21y
+    400566: PantherLLegDigit21y 1
+    400568: PantherLLegDigit22n
+    400570: PantherLLegDigit22y
+    400572: PantherLLegDigit22y 1
+    400574: PantherLLegDigit31n
+    400576: PantherLLegDigit32n
+    400578: PantherRibcagemy
+    400580: PantherRLegDigit01n
+    400582: PantherRLegDigit11n
+    400584: PantherRLegDigit12n
+    400586: PantherRLegDigit21n
+    400588: PantherRLegDigit22n
+    400590: PantherRLegDigit31n
+    400592: PantherRLegDigit32n
+    400594: PantherTail1
+    400596: PantherTail2
+    400598: PantherTail3
+    400600: PantherTail4
+    400602: pasted__pCylinder16
+    400604: Pelvismy
+    400606: Point01
+    400608: Point02
+    400610: Point03
+    400612: Point04
+    400614: Point05
+    400616: Point06
+    400618: Point07
+    400620: Point08
+    400622: Point09
+    400624: Point10
+    400626: polySurface2
+    400628: polySurface8
+    400630: pupil
+    400632: pupil1
+    400634: R Claviclemy
+    400636: R Forearmmy
+    400638: R Handmy
+    400640: R UpperArmmy
+    400642: //RootNode
+    400644: Spine1my
+    400646: Spine2my
+    400648: Spine3my
+    400650: Spine4my
+    400652: Spinemy
+    400654: SplineIKNode01
+    400656: Teeth_Bttm_Mrph
+    400658: Teeth_Top_Mrph
+    2000000: back
+    2100000: Palate
+    2100002: Teeth
+    2100004: lambert1
+    2100006: 02 - Default
+    2100008: Main_eyes
+    2100010: tongue
+    2100012: sabre_tooth_body
+    2300000: Box01
+    2300002: chin_bottom
+    2300004: chin_top
+    2300006: Diego Morph
+    2300008: eye_l
+    2300010: Eye_L_mrph
+    2300012: eye_r
+    2300014: Eye_R_mrph
+    2300016: pupil
+    2300018: pupil1
+    2300020: Teeth_Bttm_Mrph
+    2300022: Teeth_Top_Mrph
+    3300000: Box01
+    3300002: chin_bottom
+    3300004: chin_top
+    3300006: Diego Morph
+    3300008: eye_l
+    3300010: Eye_L_mrph
+    3300012: eye_r
+    3300014: Eye_R_mrph
+    3300016: pupil
+    3300018: pupil1
+    3300020: Teeth_Bttm_Mrph
+    3300022: Teeth_Top_Mrph
+    4300000: chin_bottom
+    4300002: Box01
+    4300004: chin_top
+    4300006: eye_l
+    4300008: eye_r
+    4300010: Eye_L_mrph
+    4300012: Teeth_Top_Mrph
+    4300014: Eye_R_mrph
+    4300016: Diego Morph
+    4300018: Teeth_Bttm_Mrph
+    4300020: pupil
+    4300022: pupil1
+    4300024: polySurface2
+    4300026: polySurface8
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface2
+    13700002: polySurface8
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
